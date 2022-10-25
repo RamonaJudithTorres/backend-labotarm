@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "django_settings": "laboratorio.settings",
+        "profile_name": null,
+        "project_name": "laboratorio",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-k2lgwd7mo",
+        "memory_size":500,
+        "aws_region": "us-east-1" 
+    }
+}

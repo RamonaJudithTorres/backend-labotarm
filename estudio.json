@@ -1,0 +1,2122 @@
+[
+ {
+  "nombre": "ACIDO FOLICO",
+  "clave": "ACFOL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC DE HEPATITIS C TOTALES",
+  "clave": "ACHEP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ACIDO URICO EN ORINA DE 24 HRS.",
+  "clave": "ACURO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ACIDO URICO SERICO",
+  "clave": "ACURS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ACIDO VALPROICO (DEPAKENE, ATEMPERATOR)",
+  "clave": "ACVAL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ACIDO VANIL MANDELICO",
+  "clave": "ACVAN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AGLUTININAS FRIAS (CRIOAGLUTININAS)",
+  "clave": "AGNAS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALDOSTERONA SERICA",
+  "clave": "ALDONA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALDOLASA EN SUERO",
+  "clave": "ALDSUE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALCOHOL ETILICO EN SUERO (ETANOL)",
+  "clave": "ALETS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALCOHOL ETILICO EN ORINA (ETANOL)",
+  "clave": "ALETO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALFAFETOPROTEINAS",
+  "clave": "ALFPRO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALBUMINA EN ORINA DE 24 HRS",
+  "clave": "ALORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ALBÚMINA SERICA",
+  "clave": "ALSER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AMILASA EN ORINA ALEATORIA",
+  "clave": "AMOAL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AMILASA EN ORINA DE 24 HORAS",
+  "clave": "AMO24",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AMILASA SERICA",
+  "clave": "AMISER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AMONIACO (AMONIO EN PLASMA)",
+  "clave": "AMOPL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI ACIDO DESOXIRIBONUCLEICO (DNA)",
+  "clave": "ACDNA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI AMIBA",
+  "clave": "ACAMI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO E DE HEPATITIS B",
+  "clave": "ANATI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CARDIOLIPINAS IgG",
+  "clave": "ACACG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CARDIOLIPINAS IgM",
+  "clave": "ACACM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CENTROMERO",
+  "clave": "ACCEN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CHLAMYDIA TRACHOMATIS IgG",
+  "clave": "ACCLG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CHLAMYDIA TRACHOMATIS IgM",
+  "clave": "ACCLM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CISTICERCO",
+  "clave": "ACCIS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CITOMEGALOVIRUS IgG",
+  "clave": "ACCIG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CITOMEGALOVIRUS IgM",
+  "clave": "ACCIM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CITOPLASMA C (ANCA-C)",
+  "clave": "ANCAC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI CITOPLASMA P (ANCA-P)",
+  "clave": "ANCAP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANDROSTENEDIONA",
+  "clave": "ANDDIO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI DENGUE TOTALES",
+  "clave": "ACDEN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI DNA NATIVO (NATIVO DNAds)",
+  "clave": "ANDNA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIDOPING I (Coc, THC, Anfet )",
+  "clave": "ANDO1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIDOPING II (Coc, THC, Anfet, BZD, BAR)",
+  "clave": "ANDO2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI ESPERMA",
+  "clave": "ANESP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIESTREPTOLISINAS (ASO o ASLO)",
+  "clave": "ANEST",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO HLA B-27 (ANTÍGENO LEUCOCITARIO-nHUMANO)",
+  "clave": "ANEUC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO DE SUPERFICIE HEPATITIS B (AG AUSTRALIA)",
+  "clave": "ANFIC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANFETAMINAS EN ORINA",
+  "clave": "ANFORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI FOSFOLIPIDOS IgM",
+  "clave": "ANFOM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI FOSFOLIPIDOS IgG",
+  "clave": "ANFOG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO CA-72-4 (GASTROINTESTINAL)",
+  "clave": "ANGAS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HELICOBACTER PILORI IgM",
+  "clave": "ANHEM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HELICOBACTER PYLORI IgG",
+  "clave": "ANHEG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO HELICOBACTER PYLORI (HECES)",
+  "clave": "ANHEL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HERPES IgM",
+  "clave": "AHERM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HERPES II IgG",
+  "clave": "AHER2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HERPES II IgM",
+  "clave": "AHER2M",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HERPES IgG",
+  "clave": "ANHER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HETEROFILOS (PAUL BUNNEL- MONOTEST)",
+  "clave": "ANHET",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI HIV (PRUEBA PRESUNTIVA) (VIH)",
+  "clave": "ANHIV",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI INSULINA",
+  "clave": "ANINS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI ISLOTES DE LANGERHANS",
+  "clave": "ANISL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO CA-15-3 (MAMARIO ESPECIFICO)",
+  "clave": "ANMAM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO CARCINOEMBRIONARIO (C.E.A)",
+  "clave": "ANMBR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI MICROSOMALES",
+  "clave": "ANMIC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI MITOCONDRIALES",
+  "clave": "ANMIT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI MYCOBACETRIUM TUBERCULOSIS IgG",
+  "clave": "AMYCG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI MYCOBACETRIUM TUBERCULOSIS IgM",
+  "clave": "AMYCM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI NUCLEARES",
+  "clave": "ANNUC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO CA-125 (OVARICO)",
+  "clave": "ANOVA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTITOXOPLASMA IgG",
+  "clave": "ANOXO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO CA-19-9 (PANCREATICO)",
+  "clave": "ANPAN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTIPARVOVIRUS B19 IgG, IgM",
+  "clave": "ANPAR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI PÉPTIDOS CÍCLICO CITRULINADO (ANTI-nCCP)",
+  "clave": "ANPÉP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI PEROXIDASA DE TIROIDES",
+  "clave": "ANPER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO PROSTATICO ESPECIFICO Y FRACCION LIBRE",
+  "clave": "ANPEF",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO PROSTATICO LIBRE",
+  "clave": "ANPLI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIGENO PROSTATICO ESPECIFICO (PSA)",
+  "clave": "ANPSA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI RIBONUCLEOPROTEINA (RNP)",
+  "clave": "ANRIB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI RUBEOLA biIgG",
+  "clave": "ANRUG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI RUBEOLA IgM",
+  "clave": "ANRUM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI SCL 70 (ESCLERODERMA)",
+  "clave": "ANSCL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI TIROIDEOS",
+  "clave": "ANTIR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI JO-1",
+  "clave": "ANTJO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTICUAGULANTE LÚPICO EN PLASMA",
+  "clave": "ANTLÚP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI MUSCULO LISO",
+  "clave": "ANTMU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI TOXOPLASMA IgM",
+  "clave": "ANTOX",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI TRIPANOSOMA (PRUEBA DE CHAGAS)",
+  "clave": "ANTRI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI SM",
+  "clave": "ANTSM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI SSA (RO)",
+  "clave": "ANSSA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI SSB (LA)",
+  "clave": "ANSSB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI TIROGLOBULINA",
+  "clave": "ANTTI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI VARICELA IgG",
+  "clave": "ANVAG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC ANTI VARICELA IgM",
+  "clave": "ANVAM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AZUCARES REDUCTORES HECES",
+  "clave": "AZRED",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BACILOSCOPIA (BAAR 1 MUESTRA)",
+  "clave": "BAAAR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BACILOSCOPIA EN ORINA",
+  "clave": "BAORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BACILOSCOPIA SERIADA (BAAR 3 MUESTRAS)",
+  "clave": "BASER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BARBITURICOS",
+  "clave": "BAURI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BENZODIACEPINAS",
+  "clave": "BEIAC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BIOPSIA CHICA  (Menor a 0.5 cm)",
+  "clave": "BICHI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BIOPSIA GRANDE  (De 1.1 cm en adelante confirmar con el laboratorio previo al envio)",
+  "clave": "BIGRA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BIOPSIA MEDIANA  (De 0.6 a 1.0 cm)",
+  "clave": "BIMED",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BIOMETRIA HEMATICA COMPLETA (BHC)-nHEMOGRAMA",
+  "clave": "BIRIA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BILIRRUBINAS EN SUERO (TOT. DIR. IND)",
+  "clave": "BIUBI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "BRUCELLA ABORTUS POR ROSA DE BENGALA",
+  "clave": "BRABO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CALCITONINA",
+  "clave": "CACIT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CANABINOIDES EN ORINA(MARIHUANA)",
+  "clave": "CAIDE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CANINO-BIOMETRIA HEMATICA",
+  "clave": "CANBI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CANINO-PERFIL BIOQUIMICO I",
+  "clave": "CAPBI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CANINO-PERFIL HORMONAL II",
+  "clave": "CAPHO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CANINO-PERFIL TIROIDEO",
+  "clave": "CAPTI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CALCIO EN ORINA DE 24 HRS",
+  "clave": "CAORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CALCULO RENAL",
+  "clave": "CAREN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CARGA VIRAL DE VIH",
+  "clave": "CVVIH",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CARGA VIRAL DE HEPATITIS",
+  "clave": "CVHEP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CALCIO EN SANGRE (Ca)",
+  "clave": "CASAN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CALCULO VESICULAR",
+  "clave": "CAVES",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC CENTRAL DE HEPATITIS A IgG",
+  "clave": "CEALG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "AC CENTRAL DE HEPATITIS A IgM",
+  "clave": "CEALM ",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CELULAS LE (LUPUS ERITEMATOSO)",
+  "clave": "CELLU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CETOESTEROIDES 17",
+  "clave": "CETES",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CETONAS EN ORINA",
+  "clave": "CETOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CHLAMYDIA TRACHOMATIS CERVICAL (ANTIGENO)",
+  "clave": "CHTRC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CHLAMYDIA TRACHOMATIS URETRAL (ANTIGENO)",
+  "clave": "CHTRU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CITOLOGIA FECAL",
+  "clave": "CITFE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CITOLOGIA MAMA",
+  "clave": "CITMA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CITOLOGIA VARIOS",
+  "clave": "CITVA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CITOLOGIA VAGINAL. PAPANICOLAU. DOC",
+  "clave": "CITVP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CLORO",
+  "clave": "CLORO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COCAINA EN ORINA",
+  "clave": "COCOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COLESTEROL HDL",
+  "clave": "COLHD",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COLESTEROL LDL",
+  "clave": "COLLD",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COLINESTRASA EN SUERO",
+  "clave": "COLSU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COLESTEROL TOTAL",
+  "clave": "COLTO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COLESTEROL VLDL",
+  "clave": "COLVL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COMPLEMENTO C3",
+  "clave": "COMC3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COMPLEMENTO C4",
+  "clave": "COMC4",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COMPLEMENTO HEMOLITICO CH50",
+  "clave": "COMHE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COOMBS INDIRECTO",
+  "clave": "COOEC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COOMBS DIRECTO.",
+  "clave": "COOTO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COPROCULTIVO",
+  "clave": "COPCU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COPROLOGICO",
+  "clave": "COPLO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COPROPARASITOSCOPICO SERIADO 3 MTAS. (CPS 3)",
+  "clave": "COPSE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "COPROPARASITOSCOPICO UNICO (CPS 1)",
+  "clave": "COPUN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CORTISOL EN ORINA 24 HRS.",
+  "clave": "COROR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CORTISOL SERICO",
+  "clave": "CORSE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CREATININA EN ORINA ALEATORIA",
+  "clave": "CREEN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CREATIN FOSFOQUINASA (CPK)",
+  "clave": "CRCPK",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CREATIN FOSFOQUINASA FRACCION MB",
+  "clave": "CRFMB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CREATININA ORINA 24 HRS.",
+  "clave": "CREOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CREATININA SERICA (CR)",
+  "clave": "CRESE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE ABCESO***",
+  "clave": "CULAB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE EXPECTORACIÓN***",
+  "clave": "CULEX",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO FARINGEO",
+  "clave": "CULFA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE GONOCOCO***",
+  "clave": "CULGO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE HERIDA",
+  "clave": "CULHE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE HONGOS",
+  "clave": "CULHO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE LIQUIDO",
+  "clave": "CULLI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE MYCOBACTERIUM TUBERCULOSIS",
+  "clave": "CULMB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE MYCOPLASMA",
+  "clave": "CULMP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO NASAL",
+  "clave": "CULNA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO OCULAR",
+  "clave": "CULOC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO OTICO",
+  "clave": "CULOT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE PIEL",
+  "clave": "CULPI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO RECTAL",
+  "clave": "CULRE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE SECRECION",
+  "clave": "CULSE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE SUPERFICIE",
+  "clave": "CULSU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE ULCERA",
+  "clave": "CULUL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO DE UREAPLASMA",
+  "clave": "CULUP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO URETRAL",
+  "clave": "CULUR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO VAGINAL",
+  "clave": "CULVA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "CULTIVO VULVAR",
+  "clave": "CULVU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DEHIDROEPIANDOSTERONA  (DHEA)",
+  "clave": "DHEA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DEHIDROEPIANDOSTERONA SULFATO (DHEA-S)",
+  "clave": "DHEAS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DEPURACION DE CREATININA EN ORINA DE 24 HR",
+  "clave": "DEPON",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DESHIDROGENASA LACTICA DHL",
+  "clave": "DESLA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DIFENILHIDRANTOINA. (EPAMIN, DILATIN,-nFENITOINA)",
+  "clave": "DIFIN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DIGOXINA",
+  "clave": "DIGNA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DOPAMINA EN ORINA DE 24 HRS",
+  "clave": "DOO24",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "DOPAMINA EN PLASMA",
+  "clave": "DOPLA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ELECTROLITOS ES (Na, K, Cl)",
+  "clave": "ELEES",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ELECTROFORESIS DE LIPOPROTEINAS",
+  "clave": "ELELI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ELECTROLITOS ORINA 24 hrs.",
+  "clave": "ELEOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ELECTROFORESIS DE PROTEINAS",
+  "clave": "ELEPR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PRUEBA DE EMBARAZO EN ORINA (PIE)",
+  "clave": "EMORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PRUEBA DE EMBARAZO EN SUERO (PIE)",
+  "clave": "EMSUE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EOSINOFILOS FARINGEOS",
+  "clave": "EOSFA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EOSINOFILOS MOCO NASAL",
+  "clave": "EOSMO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EPSTEIN BARR CAPSIDE IGM",
+  "clave": "EPSBA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EQUINO-BIOMETRIA HEMATICA",
+  "clave": "EQUBI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EQUINO-CREATININ FOSFOQUINASA (CPK)",
+  "clave": "EQUCR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EQUINO-PERFIL BIOQUIMICO I",
+  "clave": "EQUPE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EQUINO QUIMICA SANGUINEA I (5 ELEMENTOS)",
+  "clave": "EQUQU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ERITROPOYETINA",
+  "clave": "ERIOY",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ESPERMOCULTIVO",
+  "clave": "ESPCU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ESPERMOGRAMA BASICO",
+  "clave": "ESPGR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ESTRADIOL",
+  "clave": "ESTOL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ESTROGENOS TOTALES",
+  "clave": "ESTTO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "EXAMEN GENERAL DE ORINA (EGO)",
+  "clave": "EXAOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FACTOR REUMATOIDE (FR)",
+  "clave": "FACFR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FACTOR REUMATOIDE CUANTITATIVO",
+  "clave": "FACUA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FELINO-BIOMETRIA HEMATICA",
+  "clave": "FELHE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FELINO-PEFIL BIOQUIMICO I",
+  "clave": "FELQU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FENOBARBITAL (ACIDO BARBITURICO)",
+  "clave": "FENAC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FERRITINA",
+  "clave": "FERNA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FIBRINOGENO",
+  "clave": "FIBGE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFATASA ALCALINA (ALP)",
+  "clave": "FOSAL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFOLIPIDOS",
+  "clave": "FOSFO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFATASA ACIDA FRACC. PROSTATICA",
+  "clave": "FOSFR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFORO EN ORINA DE 24 hrs.",
+  "clave": "FOSOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFATASA ACIDA TOTAL",
+  "clave": "FOSSA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFORO EN SUERO",
+  "clave": "FOSSU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FOSFATASA ACIDA TOTAL Y FRACC. PROSTATICA",
+  "clave": "FOSTO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FROTIS EN SANGRE PERIFERICA",
+  "clave": "FROSA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FRUCTUOSA EN SEMEN",
+  "clave": "FRUEN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "FTA ABS. AC ANTI TREPONEMA",
+  "clave": "FTABS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GAMAGLUTAMILTRANSPEPTIDASA (GGT)",
+  "clave": "GAMIL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GASTRINA",
+  "clave": "GASTR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLU, COL, TGC",
+  "clave": "GLCOL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA CARGA DE 100 gr. (O.Sullivan)",
+  "clave": "GL100",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA CARGA DE 50 gr. (O.Sullivan)",
+  "clave": "GL50",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA CARGA DE 75 gr. (O.Sullivan)",
+  "clave": "GL75",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA EN ORINA",
+  "clave": "GLUOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA POSTPRANDIAL",
+  "clave": "GLUPO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GLUCOSA SERICA",
+  "clave": "GLUSE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GONADOTROFINA CORIONICA CUANTITATIVA (B-nHCG)",
+  "clave": "GONOF",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GRAM (BACTERIOLOGIA)",
+  "clave": "GRAMB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GRUPO y RH",
+  "clave": "GRURH",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "GUAYACO (SANGRE OCULTA EN HECES)",
+  "clave": "GUASA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HEMOGLOBINA GLICOSILADA (HB- GLI)",
+  "clave": "HEMGL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HEMOGLOBINA",
+  "clave": "HEMIN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HEMOCULTIVO (CULTIVO DE SANGRE)",
+  "clave": "HEMIV",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HIDROXIPROGESTERONA 17",
+  "clave": "HIDST",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HIERRO SERICO",
+  "clave": "HIESE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HIERRO SERICO CON CAPTACION",
+  "clave": "HIESC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA ADRENOCORTICOTROFICA (ACTH)",
+  "clave": "HOADR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA ANTIDIURETICA",
+  "clave": "HOAND",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA ANTIMÛLERIANA",
+  "clave": "HOANM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA DE CRECIMIENTO",
+  "clave": "HOCRE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA ESTIMULANTE DE TIROIDES NEONATAL (TSH NEONATAL)",
+  "clave": "HOESN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA ESTIMULANTE DE TIROIDES (TSH)",
+  "clave": "HOEST",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA FOLICULO ESTIMULANTE (FSH)",
+  "clave": "HOFOL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA LUTEINIZANTE (LH)",
+  "clave": "HOLUT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "HORMONA PARATIROIDEA (PTH, PARATHORMONA)",
+  "clave": "HOPAR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "IAPC. AMIBA EN FRESCO",
+  "clave": "IAIBA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "IGF-1 (FACTOR DE CRECIMIENTO INSULINA)",
+  "clave": "IGACT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INFLUENZA H1N1 (CONFIRMACION PCR)",
+  "clave": "INH1N",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INFLUENZA HUMANA TIPO A Y B",
+  "clave": "INHUM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA A (IgA)",
+  "clave": "INMUA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA D (IgD)",
+  "clave": "INMUD",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA E (IgE)",
+  "clave": "INMUE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA G (IgG)",
+  "clave": "INMGG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA G SUBCLASES (IgG)",
+  "clave": "INMGS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA M (IgM)",
+  "clave": "INMUM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INDICE HOMA",
+  "clave": "INOMA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INSULINA POSPANDRIAL EN UNA HORA (1 toma)",
+  "clave": "INPOS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INSULINA SERICA",
+  "clave": "INSER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "INSULINA SERICA CURVA DE 2 MUESTRAS",
+  "clave": "INSEC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "KOH. DIRECTO DE HONGOS",
+  "clave": "KOHON",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LINFOCITOS CD4 , CD8 Y CD3",
+  "clave": "LINCD",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LIQUIDO CEFALORRAQUIDEO (CITOQUIMICO)",
+  "clave": "LIQCE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LIQUIDO CITOQUIMICO (VARIOS)",
+  "clave": "LIQCI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LIQUIDO SINOVIAL (CITOQUIMICO)",
+  "clave": "LIQSI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LIPASA SERICA",
+  "clave": "LISER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "LITIO",
+  "clave": "LITIO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "MAGNESIO",
+  "clave": "MAG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "METANFETAMINAS",
+  "clave": "METAN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "METANEFRINAS EN PLASMA",
+  "clave": "METPL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "MICROALBUINA EN ORINA",
+  "clave": "MICOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "MORFINA EN ORINA",
+  "clave": "MOROR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "NITROGENO UREICO. BUN",
+  "clave": "NITUR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "OPIACEOS EN ORINA",
+  "clave": "OPIOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "OXALATOS EN ORINA DE 24 HRS",
+  "clave": "OXAOR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "OXIUROS (GRAHAM RASPADO ANAL)",
+  "clave": "OXIGR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PAPILOMA BUSQUEDA (FROTIS)",
+  "clave": "PAPIL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PATERNIDAD POR ADN (2 PERSONAS INCLUIDAS)",
+  "clave": "PATER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL ALERGICO",
+  "clave": "PEALE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL ALERGICO INHALATORIO",
+  "clave": "PEALEI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL ALERGICO ALIMENTICIO",
+  "clave": "PEALEA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL ALERGICO COMBINADO (ALIMENTICIO + INHALATORIO)",
+  "clave": "PEALEC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE ALIMENTOS I",
+  "clave": "PEALI1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE ALIMENTOS II",
+  "clave": "PEALI2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE ANDROGENOS",
+  "clave": "PEAND",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO I (16 DETERMINACIONES)",
+  "clave": "PEBI1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO II (19 DETERMINACIONES)",
+  "clave": "PEBI2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO III (27 DETERMINACIONES)",
+  "clave": "PEBI3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO IV (32 DETERMINACIONES)",
+  "clave": "PEBI4",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO V (35 DETERMINACIONES)",
+  "clave": "PEBI5",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL CARDIACO",
+  "clave": "PECAR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE CATECOLAMINAS EN ORINA DE 24 HORAS",
+  "clave": "PECA24",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE CATECOLAMINAS EN PLASMA (ADRENALINA,DOPAMIN,NORADRENALINA)",
+  "clave": "PECAP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL CLINICO",
+  "clave": "PECLI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE COAGULACION I",
+  "clave": "PECO1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE COAGULACION II",
+  "clave": "PECO2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DIABETICO I",
+  "clave": "PEDI1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DIABETICO II",
+  "clave": "PEDI2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HEPATICO I (PFH I)",
+  "clave": "PEHE1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HEPATICO II (PFH II)",
+  "clave": "PEHE2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HEPATICO III (PFH III)",
+  "clave": "PEHE3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE HIERRO",
+  "clave": "PEHIE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE HIERRO C/ FERRITINA",
+  "clave": "PEHIF",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE HIPERTENSION I",
+  "clave": "PEHIP1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE HIPERTENSION II",
+  "clave": "PEHIP2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO I (FSH,LH,ES)",
+  "clave": "PEHOF1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO II (FSH,LH,ES,PROL)",
+  "clave": "PEHOF2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO III (FSH,LH,ES,PROL,PROG)",
+  "clave": "PEHOF3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO IV (FSHLH,ES,PROL,PROG+Testosterona)",
+  "clave": "PEHOF4",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE INMUNOGLOBULINAS (IgG, IgA, IgM, IgE)",
+  "clave": "PEINM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL INMUNOLOGICO DE HEPATITIS",
+  "clave": "PEINH",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE LIPIDOS",
+  "clave": "PELIP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL DE LUPUS",
+  "clave": "PELUP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL PRENATAL I",
+  "clave": "PEPR1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL PRENATAL II",
+  "clave": "PEPR2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL PRENATAL III",
+  "clave": "PEPR3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL PROSTATICO",
+  "clave": "PEPRO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PEPTIDO C",
+  "clave": "PEPTC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL REUMATICO (FR, PCR, ASL, VSG, AC. UR)",
+  "clave": "PEREU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL TESTICULAR (HORMONAL MASCULINO) (FSH,LH,,PROL+Testosterona)",
+  "clave": "PETES",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL TIROIDEO I",
+  "clave": "PETI1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL TIROIDEO II",
+  "clave": "PETI2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL TORCH IgG",
+  "clave": "PETOG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PERFIL TORCH IgM",
+  "clave": "PETOM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PLAQUETAS",
+  "clave": "PLAQU",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PLOMO EN ORINA",
+  "clave": "PLORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PLOMO EN PLASMA",
+  "clave": "PLPLA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "POTASIO EN ORINA DE 24 h",
+  "clave": "POORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "POOL DE PROLACTINAS",
+  "clave": "POPRO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "POTASIO SERICO",
+  "clave": "POSER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINA C REACTIVA DE ALTA SENSIBILIDAD",
+  "clave": "PRALT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINA DE BENCES JONES",
+  "clave": "PRBEN",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROCALCITONINA (Detección temprana de infección bacteriana)",
+  "clave": "PRCIT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROGESTERONA",
+  "clave": "PRERO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PRENUPCIALES (1 PERSONA)",
+  "clave": "PREN1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PRENUPCIALES (POR PAREJA)",
+  "clave": "PRENP",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROLACTINA (PROL)",
+  "clave": "PRINA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINAS TOTALES ORINA 24 HRS.",
+  "clave": "PRORI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINA S DE COAGULACION",
+  "clave": "PROTS",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINA C REACTIVA (PCR)",
+  "clave": "PRPCR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "PROTEINAS TOTALES SERICAS (PT)",
+  "clave": "PRSER",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA I (QS5)",
+  "clave": "QUSA1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA II (QS6)",
+  "clave": "QUSA2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA III (QS7)",
+  "clave": "QUSA3",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "REACCIONES FEBRILES",
+  "clave": "REAFE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "RENINA EN PLASMA",
+  "clave": "RENPL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "RETICULOCITOS (RETIS o RET)",
+  "clave": "RETCI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ROTAVIRUS",
+  "clave": "ROTAV",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "SERAMEBA",
+  "clave": "SERAM",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "SERIE BLANCA",
+  "clave": "SERBL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "SERIE ROJA",
+  "clave": "SERRO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "SODIO",
+  "clave": "SODIO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "T3 LIBRE",
+  "clave": "T3LIB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "T3 TOTAL",
+  "clave": "T3TOT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "T4 LIBRE",
+  "clave": "T4LIB",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "T4 TOTAL",
+  "clave": "T4TOT",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL I (BASICO 1)",
+  "clave": "TANE1",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL II (BASICO 2)",
+  "clave": "TANE2",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TEGRETOL (CARBAMAZEPINA)",
+  "clave": "TEGRE",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TESTOSTERONA LIBRE",
+  "clave": "TESLI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TESTOSTERONA TOTAL",
+  "clave": "TESTO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TRANSAMINASA GLUTAMICO OXALACETICA (TGO)",
+  "clave": "TGOXO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TRANSAMINASA GLUTAMICO PIRUVICA (TGP)",
+  "clave": "TGPIR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TIROGLOBULINA",
+  "clave": "TIROG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TOPIRAMATO",
+  "clave": "TOPIR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TIEMPO DE PROTROMBINA CON INR (TP CON INR)",
+  "clave": "TPINR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TIEMPO PARCIAL DE TROMBOPLASTINA (TPT)",
+  "clave": "TPTRO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TRICHOMONA IDENTIFICACION EN FRESCO",
+  "clave": "TRCHO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TRIGLICÉRIDOS (TG o TRIGLI)",
+  "clave": "TRIGL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TRANSFERRINA",
+  "clave": "TRNSF",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "TROPONINA",
+  "clave": "TROPO",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "UROCULTIVO (CULTIVO DE ORINA)",
+  "clave": "URCUL",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "UREA",
+  "clave": "UREA",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VDRL (LUETICAS)",
+  "clave": "VDLR",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VELOCIDAD DE SEDIMENTACION GLOBULAR (VSG o VSE)",
+  "clave": "VESEG",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VITAMINA B12",
+  "clave": "VIB12",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VIRUS DE ZIKA",
+  "clave": "VIRZI",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VITAMINA D (25 HIDROXI VITAMINA D) FORMA ACTIVA",
+  "clave": "VITAD",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VIRUS DE PAPILOMA HUMANO (CAPTURA DE HIBRIDOS)",
+  "clave": "VPHCH",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "VIRUS DEL PAPILOMA HUMANO PCR",
+  "clave": "VPHPC",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "WESTER BLOT (CONFIRMATORIO V.I.H.)",
+  "clave": "WBVIH",
+  "descripcion": "-"
+ },
+ {
+  "nombre": "ANTIDOPING I",
+  "clave": "-",
+  "descripcion": "* Cocaína* Marihuana* Anfetaminas"
+ },
+ {
+  "nombre": "ANTIDOPING II",
+  "clave": "-",
+  "descripcion": "* Cocaína* Marihuana* Anfetaminas* Metanfetaminas* Morfina"
+ },
+ {
+  "nombre": "ELECTROLITOS (ES) (Na, K, Cl)",
+  "clave": "-",
+  "descripcion": "* Sodio (Na)* Potasio (K)* Cloro (Cl)"
+ },
+ {
+  "nombre": "INMUNOGLOBULINA G SUBCLASES",
+  "clave": "-",
+  "descripcion": "* IgG Subclase 1* IgG Subclase 2* IgG Subclase 3* IgG Subclase 4"
+ },
+ {
+  "nombre": "LIQUIDO CEFALORRAQUIDEO (CITOQUIMICO)",
+  "clave": "-",
+  "descripcion": "* Aspecto* Color* Coagulo* Células mm3* Proteínas* Glucosa* Células mononucleadas"
+ },
+ {
+  "nombre": "PERFIL ALERGICO",
+  "clave": "-",
+  "descripcion": "* Biometría Hemática* Eosinófilo nasal* Eosinófilo faríngeo* Inmunoglobulina E (IgE)"
+ },
+ {
+  "nombre": "PERFIL CLINICO",
+  "clave": "-",
+  "descripcion": "* Biometría Hemática* Química Sanguínea III* Reacciones Febriles* Ex General de Orina* Copro único"
+ },
+ {
+  "nombre": "PERFIL DE ALIMENTOS I",
+  "clave": "-",
+  "descripcion": "* Reacciones Febriles* Copro único"
+ },
+ {
+  "nombre": "PERFIL DE ALIMENTOS II",
+  "clave": "-",
+  "descripcion": "* Reacciones Febriles* Copro único* KOH"
+ },
+ {
+  "nombre": "PERFIL DE ANDROGENOS",
+  "clave": "-",
+  "descripcion": "* Testosterona* Progesterona* Androstenediona* Cortisol* Dehidroepiandosterona Sulfato"
+ },
+ {
+  "nombre": "PERFIL DE CATECOLAMINAS EN PLASMA",
+  "clave": "-",
+  "descripcion": "* Catecolaminas totales plasmáticas* Noradrenalina en plasma* Adrenalina en plasma* Dopamina en plasma"
+ },
+ {
+  "nombre": "PERFIL DE COAGULACION I",
+  "clave": "-",
+  "descripcion": "* Biometría Hemática* Tiempo de protrombina* Tiempo parcial de Tromboplastina"
+ },
+ {
+  "nombre": "PERFIL DE COAGULACION II",
+  "clave": "-",
+  "descripcion": "* Perfil de coagulación I +* Fibrinógeno"
+ },
+ {
+  "nombre": "PERFIL DE HIERRRO",
+  "clave": "-",
+  "descripcion": "* Hierro sérico* Hierro capacidad de captación* Hierro Libre* Hierro Saturación"
+ },
+ {
+  "nombre": "PERFIL DE HIERRO CON FERRITINA",
+  "clave": "-",
+  "descripcion": "* Perfil de Hierro +* Ferritina"
+ },
+ {
+  "nombre": "PERFIL DE HIPERTENSION I",
+  "clave": "-",
+  "descripcion": "* Acido vanilmandelico* Aldosterona en suero* Cortisol en suero* Renina en plasma* Perfil de lípidos"
+ },
+ {
+  "nombre": "PERFIL DE HIPERTENSION II",
+  "clave": "-",
+  "descripcion": "* Perfil de hipertensión I +* Perfil de catecolaminas orina de 24 h* Perfil de catecolaminas en plasma"
+ },
+ {
+  "nombre": "PERFIL DE LIPIDOS",
+  "clave": "-",
+  "descripcion": "* Lípidos totales* Colesterol total* HDL colesterol* LDL colesterol* VLDL colesterol* Triglicéridos* Fosfolípidos* Índice/Aterogénico* Relación col /col HDL"
+ },
+ {
+  "nombre": "PERFIL DE LUPUS",
+  "clave": "-",
+  "descripcion": "* Ac Antinucleares* Ac anti DNA* Complemento C3* Complemento C4* Complemento hemolítico CH50* Células LE"
+ },
+ {
+  "nombre": "PERFIL DIABETICO I",
+  "clave": "-",
+  "descripcion": "* Glucosa* Creatinina* Colesterol* Examen General de Orina"
+ },
+ {
+  "nombre": "PERFIL DIABETICO II",
+  "clave": "-",
+  "descripcion": "* Perfil Diabético I* Hemoglobina glicosilada"
+ },
+ {
+  "nombre": "PERFIL HEPATICO I (PFH I)",
+  "clave": "-",
+  "descripcion": "* Bilirrubina Total* Bilirrubina Total* Bilirrubina Total* TGO* TGP* Fosfatasa Alcalina* Proteínas Totales* Albumina* Globulina"
+ },
+ {
+  "nombre": "PERFIL HEPATICO II (PFH II)",
+  "clave": "-",
+  "descripcion": "* Perfil hepático I +* Colesterol* Triglicéridos"
+ },
+ {
+  "nombre": "PERFIL HEPATICO III (PFH III)",
+  "clave": "-",
+  "descripcion": "* Perfil hepático II + * Amilasa* Lipasa"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO I",
+  "clave": "-",
+  "descripcion": "* Hormona Folículo Estimulante (FSH)* Hormona Luteinizante (LH)* Estradiol"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO II",
+  "clave": "-",
+  "descripcion": "* Perfil Hormonal Femenino I +* Prolactina"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO III",
+  "clave": "-",
+  "descripcion": "* Perfil Hormonal Femenino II +* Progesterona"
+ },
+ {
+  "nombre": "PERFIL HORMONAL FEMENINO IV",
+  "clave": "-",
+  "descripcion": "Perfil Hormonal Femenino II + Testosterona"
+ },
+ {
+  "nombre": "PERFIL INMUNOLOGICO DE HEPATITIS",
+  "clave": "-",
+  "descripcion": "* Acs. HEP A IgG* Acs. HEP A IgM* Ag De Sup Hepatitis B* Acs. Anti. HEP C Totales"
+ },
+ {
+  "nombre": "PERFIL PRENATAL I",
+  "clave": "-",
+  "descripcion": "* Biometría Hemática * Glucosa * VDRL * Grupo y Rh * Examen General de Orina"
+ },
+ {
+  "nombre": "PERFIL PRENATAL II",
+  "clave": "-",
+  "descripcion": "* Perfil prenatal I + * Ac anti HIV"
+ },
+ {
+  "nombre": "PERFIL PRENATAL III",
+  "clave": "-",
+  "descripcion": "* Perfil prenatal II + * QS I"
+ },
+ {
+  "nombre": "PERFIL PROSTATICO",
+  "clave": "-",
+  "descripcion": "* Ag Prostático Específico* Fosfatasa acida* Fosfatasa acida prostática* Fosfatasa alcalina"
+ },
+ {
+  "nombre": "PERFIL REUMATICO",
+  "clave": "-",
+  "descripcion": "* Ácido úrico* Antiestreptolisinas* Factor reumatoide* Proteína C Reactiva* Velocidad de Sedimentación"
+ },
+ {
+  "nombre": "PERFIL TORCH IgG",
+  "clave": "-",
+  "descripcion": "* Ac Anti Toxoplasma IgG* Ac Anti Rubeola IgG* Ac Anti Citomegalovirus IgG* Ac Anti Herpes I IgG"
+ },
+ {
+  "nombre": "PERFIL TORCH IgM",
+  "clave": "-",
+  "descripcion": "* Ac Anti Toxoplasma IgM* Ac Anti Rubeola IgM* Ac Anti Citomegalovirus IgM* Ac Anti Herpes I IgM"
+ },
+ {
+  "nombre": "PERFIL TESTICULAR",
+  "clave": "-",
+  "descripcion": "* Testosterona * Prolactina * Hormona Folículo Estimulante * Hormona Luteinizante"
+ },
+ {
+  "nombre": "PERFIL TIROIDEO I",
+  "clave": "-",
+  "descripcion": "* T3 captación * T4 Total * Hormona estimulante de tiroides (TSH) * Índice de tiroxina Libre * Yodo proteico"
+ },
+ {
+  "nombre": "PERFIL TIROIDEO II",
+  "clave": "-",
+  "descripcion": "* Perfil tiroideo I + * T3 Total * T4 Libre"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA I",
+  "clave": "-",
+  "descripcion": "* Glucosa * Urea * Nitrógeno de urea (BUN) * Creatinina * Ácido úrico"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA II",
+  "clave": "-",
+  "descripcion": "* Química sanguínea I + * Colesterol"
+ },
+ {
+  "nombre": "QUIMICA SANGUINEA III",
+  "clave": "-",
+  "descripcion": "* Química sanguínea II + * Triglicéridos"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL I (BASICO)",
+  "clave": "-",
+  "descripcion": "* TSH Neonatal * Tiroxina Neonatal (T4) * Fenil Alanina Complejo I * Leucina * Isoleucina Complejo II * Metionina * Valina Complejo III * Acido Glutámico * Treonina Complejo IV* Glicina* Serina* Acido Aspárgico Complejo V* Ornitina* Lisina* Histidina Complejo por unidad * Tirosina * Alanina* Glutamina * Citrulina * Arginina"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL II (BASICO)",
+  "clave": "-",
+  "descripcion": "* Tamiz neonatal básico I * Galactosa"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL AMPLIADO I",
+  "clave": "-",
+  "descripcion": "* Tamiz neonatal básico I +17 Hidroxiprogesterona +Inmunotripsina reactiva"
+ },
+ {
+  "nombre": "TAMIZAJE NEONATAL AMPLIADO II",
+  "clave": "-",
+  "descripcion": "* Tamiz neonatal básico I +17 Hidroxiprogesterona +Inmunotripsina reactiva +Biotinidasa +Galactosa +Glucosa 6 fosfato"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO I (16 DETERMINACIONES)",
+  "clave": "-",
+  "descripcion": "* Glucosa * Urea * BUN * Creatinina * Ácido úrico * Colesterol* Triglicéridos* Bilirrubina Total* Bilirrubina Total* Bilirrubina Total* TGO* TGP* Fosfatasa Alcalina* Proteínas Totales* Albumina* Globulina* Amilasa* Lipasa"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO II (19 DETERMINACIONES)",
+  "clave": "-",
+  "descripcion": "* DHL (Deshidrogenasa Láctica) * Ca+ (Calcio) * P+ (Fósforo)"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO III (29 DETERMINACIONES)",
+  "clave": "-",
+  "descripcion": "Perfil de Lípidos"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO IV (32 DETERMINACIONES)",
+  "clave": "-",
+  "descripcion": "Electrolitos (Na, K, Cl) Sodio Potasio Cloro"
+ },
+ {
+  "nombre": "PERFIL BIOQUIMICO V (35 DETERMINACIONES)",
+  "clave": "-",
+  "descripcion": "CK CK-MB Magnesio"
+ }
+]
